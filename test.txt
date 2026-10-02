@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-this is prod123 repo
-=======
 this is prod repo
->>>>>>> GTAGPE-0000
-this is test application
+
