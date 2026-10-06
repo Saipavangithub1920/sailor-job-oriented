@@ -1,2 +1,1 @@
-this is prod123 repo
-this is rapro123 application
+this is rapro application
