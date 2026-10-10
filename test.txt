@@ -4,10 +4,3 @@ rapro123
 rapro456
 rapro0000000000
 razaq, vijay, rahamthulla
-<<<<<<< HEAD
-=======
-AAAAAA
-BBBBBB
-CCCCCC
-DDDDDD
->>>>>>> a4e509a (Added C and D Data)
